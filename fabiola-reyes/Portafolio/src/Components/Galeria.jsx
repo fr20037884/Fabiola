@@ -14,7 +14,7 @@ function Galeria() {
       </main>
 
       <footer>
-        <h3>Agência de modelos</h3>
+        <h3>Galeria de repsitario</h3>
       </footer>
     </>
   );
