@@ -4,12 +4,12 @@ function Galeria() {
   return (
     <>
       <header>
-        <h2>Galeria da Lolo</h2>
+        <h2>Galeria de Portafolio</h2>
       </header>
 
       <main>
         <section>
-         //fotos de cada projeto
+         
         </section>
       </main>
 
@@ -21,3 +21,4 @@ function Galeria() {
 }
 
 export default Galeria;
+
