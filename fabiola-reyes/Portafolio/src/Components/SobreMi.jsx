@@ -46,7 +46,7 @@ function Sobre() {
         <h2>PROFISSIONAL</h2>
         <S.Card>
           <S.DivCard>
-            <h2> Instrutora </h2>
+            <h2> Estudante, auxiliar de cozinha </h2>
             {/* <img src={Mic} alt="Logo do microfone" /> */}
           </S.DivCard>
         </S.Card>
