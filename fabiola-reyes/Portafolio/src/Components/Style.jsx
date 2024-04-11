@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 
-//----Estilização da navegação
 
 export const Nav = styled.nav`
 
@@ -29,7 +28,6 @@ a{
 }
 
 `;
-
 //Estilização Inicio
 
 export const Perfil = styled.img`
@@ -54,7 +52,6 @@ padding-top: 3rem;
   }
 }
 `;
-
 //------------ teste na navegação
 
 export const Header = styled.header`
@@ -77,6 +74,7 @@ export const SectionDoSobre = styled.section`
 height: 70vh;
 width: 30vw;
 margin-top: 3rem;
+border: sol
 border: solid red 5px;
 border-radius: 50px;
 h2{
@@ -108,7 +106,6 @@ h3{
 }
 
 `;
-
 export const DivCard2 = styled.div`
 width: 70%;
 display: flex;
@@ -121,3 +118,6 @@ div{
     align-items: center;
 }
 `;
+export const H2= styled.h2`
+color: aquamarine;
+`
